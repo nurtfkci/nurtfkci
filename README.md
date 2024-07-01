@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nur Tufekci!</h1>
-<h3 align="center"> QA Engineer & Dev | Striving for Excellence in Code and Quality located in United States </h3>
+<h3 align="center">  Dev & QA & Project Management | Striving for Excellence in Code and Quality located in United States </h3>
 
-- 🔭 I’m currently working on [OrangeHRM](https://github.com/nurtfkci/OrangeHRM)
-- 🌱 I’m currently learning **Application Development**
-- 💬 Ask me about **QA Automation for Web Applications, Web Development, Application Development, Game Development**
+- 🔭 I’m currently working on my Portfolio
+- 🌱 I’m currently learning **Web Development**
+- 💬 Ask me about ** QA Automation for Web Applications, Web Development. **
 - 📫 How to reach me **ntufekci.qa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -13,12 +13,10 @@
 
 <h2>Languages and Tools</h2>
 
-- Java, C#, JavaScript, Python
+- Java, C#, JavaScript
 - HTML, CSS
 - Selenium, TestNG, Cucumber
 - Postman, RestAssured
 - Git, GitHub
 - Jenkins
-- Jira, TestRail, Zephyr
-- Flutter
-  
+- Jira
